@@ -1,0 +1,8 @@
+{
+    "name": "botble/woocommerce",
+    "description": "Import your WordPress product in woocmmerce plugin.",
+    "type": "package",
+    "require": {
+        "automattic/woocommerce": "^3.1"
+    }
+}
