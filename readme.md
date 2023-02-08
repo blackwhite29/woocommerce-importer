@@ -6,10 +6,10 @@ Purchase it here: [https://codecanyon.net/item/botble-cms-php-platform-based-on-
 [![https://youtu.be/RAnfFj4g5qY](https://img.youtube.com/vi/RAnfFj4g5qY/0.jpg)](https://youtu.be/RAnfFj4g5qY)
 
 # Installation
-- Download and rename folder `wordpress-importer-master` to `wordpress-importer`.
-- Copy folder `wordpress-importer` into `/platform/plugins`.
+- Download and rename folder `woocommerce-importer-master` to `woocommerce-importer`.
+- Copy folder `woocommerce-importer` into `/platform/plugins`.
 - Go to Admin -> Plugins then activate plugin WordPress Importer.
-- Go to Admin -> Tools -> WordPress Importer.
+- Go to Admin -> Tools -> WooCommerce Importer.
 
 # Screenshots
 
