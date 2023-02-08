@@ -13,7 +13,7 @@ Purchase it here: [https://codecanyon.net/item/botble-cms-php-platform-based-on-
 
 # Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/blackwhite29/woocommerce-importer/master/public/images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/blackwhite29/woocommerce-importer/main/public/images/screenshot.png)
 
 # Contact us
 - Website: [https://botble.com](https://botble.com)
